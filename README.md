@@ -1,22 +1,25 @@
 <h1 align="center">Hi 👋, I'm Leon</h1>
 
-<p align="center">
+<h3 align="center">
   Frontend Developer & UI/UX Enthusiast
+</h3>
+
+<p align="center">
+  I enjoy building clean, responsive, and user-friendly digital experiences.
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- 💻 Focused on Frontend Development
-- 🎨 Interested in UI/UX Design
-- 🌱 Currently learning and exploring modern web technologies
-- 🚀 Building responsive and user-friendly web applications
+- 💻 Focused on **Frontend Development**
+- 🎨 Interested in **UI/UX Design**
+- 🚀 Building modern and responsive web applications
+- 🌱 Currently exploring **React, Next.js, TypeScript, and modern web technologies**
+- 📍 Based in Bali, Indonesia
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Laravel • Supabase • Figma
-
-## Connect With Me
-
-Portfolio • LinkedIn • Email
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,laravel,supabase,figma,git,github,vscode" />
+</p>
