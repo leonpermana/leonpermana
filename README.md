@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leon</h1>
 
 <h3 align="center">
-  Frontend Developer & UI/UX Enthusiast
+  Junior Frontend Developer & UI/UX Enthusiast
 </h3>
 
 <p align="center">
